@@ -50,7 +50,7 @@
 - R2 = 0.25 (малый радиус трубки)
 - stacks = 24, slices = 24
 
-[!Демонстрация работы]([demo.gif](https://s69-hzde.freeconvert.com/task/69c5a6fcaf7db409ab4e1f37/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%202026-03-27%20003408.gif))
+![Демонстрация работы](https://s69-hzde.freeconvert.com/task/69c5a6fcaf7db409ab4e1f37/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%202026-03-27%20003408.gif)
 ---
 
 2. Куб — программный рендеринг
